@@ -1,0 +1,24 @@
+body {
+	background-color: darkgrey;
+	display: flex;
+}
+.center-container {
+	margin: 5rem auto;
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	align-self: center;
+}
+.span-block {
+	display: block;
+	margin: 1rem;
+	align-content: center;
+	align-self: center;
+}
+img {
+	display: block;
+	border: 0.2rem solid black;
+	border-radius: 0.5rem;
+	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
+	width: 20rem;
+}
