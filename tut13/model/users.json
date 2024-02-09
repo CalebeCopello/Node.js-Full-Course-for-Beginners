@@ -1,0 +1,24 @@
+[
+	{
+		"username": "John",
+		"roles": { "User": 2001 },
+		"password": "$2b$10$rzh9Ki4lotmq6EtkDLuI1uHaic72SpvNAyLMdRd5bJREys/DpqtFK"
+	},
+	{
+		"username": "Calebe",
+		"roles": { "User": 2001, "Editor": 1984 },
+		"password": "$2b$10$w1Z05NaiKFiMN3RKCWF1uOzioSAkrQQgh6K64xQ7fTSLudmFeyXJi"
+	},
+	{
+		"username": "Mary",
+		"roles": { "User": 2001 },
+		"password": "$2b$10$Yv/TmNk1TkYBv9Iw4zpNXe23lnhB7DmU5e4fqOgmqXGZodk60yXZW",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ik1hcnkiLCJpYXQiOjE3MDc0MzcyMTcsImV4cCI6MTcwNzUyMzYxN30.7vX2XbxZK8SXUpSfBPYZRv2xC8_k7LJfETnbUuIAohM"
+	},
+	{
+		"username": "Admin",
+		"roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+		"password": "$2b$10$qRv5MofvfPA41IznDNcgfOtwmc6t9lUb6iCajyJJcpnuvFh85BZyG",
+		"refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkFkbWluIiwiaWF0IjoxNzA3NDM3MjcyLCJleHAiOjE3MDc1MjM2NzJ9.L5ozl_qRdJ1h4XaeBOPIEbxDFwMlCX6SswUuj0CJYc4"
+	}
+]
